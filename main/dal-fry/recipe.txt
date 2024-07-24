@@ -2,3 +2,4 @@
 2. Soak Dal
 3. Put oil in pan and wait to heat up.
 4. Add tadka(jeera, onion, tomato, hing etc.)
+5. Step in main branch
